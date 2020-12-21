@@ -1,4 +1,4 @@
-package com.viktor.main;
+package com.viktor.model;
 
 public class World {
 	private long id;
